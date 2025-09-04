@@ -1,1 +1,1 @@
-Fork of (dipanjanS)[https://github.com/dipanjanS] (Dipanjan (DJ) Sarkar)'s (book repo)[https://github.com/dipanjanS/text-analytics-with-python], adapted to current versions of libraries (WIP, will take a lot of time...)
+Fork of [dipanjanS](https://github.com/dipanjanS) (Dipanjan (DJ) Sarkar)'s [book repo](https://github.com/dipanjanS/text-analytics-with-python), adapted to current versions of libraries (WIP, will take a lot of time...)
