@@ -1,3 +1,7 @@
+gensim
+matplotlib
+tensorflow
+keras-nightly
 scikit-learn
 textblob
 requests
