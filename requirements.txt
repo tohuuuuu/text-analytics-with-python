@@ -1,3 +1,6 @@
+networkx
+pyldavis
+dill
 scipy
 gensim
 matplotlib
@@ -6,8 +9,8 @@ keras-nightly
 scikit-learn
 textblob
 requests
-# ipython==7.23.1 # otherwise, displacy.render(jupyter=True) yields an error
-ipython
+ipython==7.23.1 # otherwise, displacy.render(jupyter=True) yields an error
+# ipython
 nltk
 numpy
 pandas

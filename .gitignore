@@ -89,3 +89,7 @@ celerybeat-schedule
 # Rope project settings
 .ropeproject
 *.npy
+/New-Second-Edition/Ch06 - Text Summarization and Topic Models/nipstxt/
+/New-Second-Edition/Ch06 - Text Summarization and Topic Models/Mallet-202108/
+/New-Second-Edition/Ch06 - Text Summarization and Topic Models/mallet-2.0.8/
+/New-Second-Edition/Ch06 - Text Summarization and Topic Models/mallet-2.0.8.zip
