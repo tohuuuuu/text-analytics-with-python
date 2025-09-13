@@ -1,9 +1,12 @@
+lime
+tf
+afinn
 joblib
 sklearn-crfsuite
 networkx
 pyldavis
 dill
-scipy
+scipy==1.11.4
 gensim
 matplotlib
 tensorflow
