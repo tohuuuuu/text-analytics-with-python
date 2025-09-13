@@ -1,23 +1,26 @@
-lime
-tf
-afinn
-joblib
-sklearn-crfsuite
-networkx
-pyldavis
-dill
-scipy==1.11.4
-gensim
-matplotlib
-tensorflow
-keras-nightly
-scikit-learn
-textblob
-requests
-ipython==7.23.1 # otherwise, displacy.render(jupyter=True) yields an error
 # ipython
+afinn
+beautifulsoup4
+contractions
+dill
+gensim
+ipython==7.23.1 # otherwise, displacy.render(jupyter=True) yields an error
+joblib
+keras-nightly
+lime
+matplotlib
+networkx
 nltk
 numpy
 pandas
+pyldavis
+requests
+scikit-learn
+scipy==1.11.4
+sklearn-crfsuite
 spacy
 svgling
+tensorflow
+tensorflow-hub
+textblob
+tf
